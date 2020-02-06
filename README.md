@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+## Hello,Buddy.. Welcome to my Github page..
 
-You can use the [editor on GitHub](https://github.com/rakibhhridoy56/practice-code/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Rakib H. Hridoy.. A python developer currently in the stage of learning Automation using python.. Though I'm a undergraduate student in Soil, Water And Environment but my main aim is to be a automation expert in python.. Currently I stopped doing project and started to mastering in python first.. So, You will find no project in my respiratory rather you can see my practiced code..
+If you want to collaborate with me you can message me in Facebook, Twitter or Instagram.. 
+Thank You..
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My project list:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Building A Alien game by python..
+2. Automation using Python in Excel..
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
